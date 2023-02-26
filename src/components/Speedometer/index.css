@@ -1,0 +1,14 @@
+.bg-container {
+  background-color: #07080c;
+  display: flex;
+  flex-direction: column;
+  justify-content: space-around;
+  align-items: center;
+}
+
+.heading {
+  color: #ffffff;
+  font-family: 'Roboto';
+  font-size: 40px;
+  font-weight: bold;
+}
